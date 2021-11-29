@@ -1,34 +1,32 @@
 - intro:
-  description: "Quelques \"side projects\" que j'ai pu mener"
+  description: "Some \"side projects\""
 - project:
   title: stubr
   link: "https://github.com/beltram/stubr"
-  tagline: "Réimplémentation de Wiremock en Rust pour améliorer ses performances et développer le contract testing en Rust"
+  tagline: "Wiremock RIIR (Rewritten in Rust) for having a more performant alternative to the Java version and introduce
+   contract testing to Rust web development"
 - project:
   title: asserhttp
   link: "https://github.com/beltram/asserhttp"
-  tagline: "Permet de faire des assertions fluent pour la majorité des clients http Rust"
+  tagline: "Fluent assertions for many http clients"
+- project:
+  title: rs-training
+  link: "https://beltram.github.io/rs-training/"
+  tagline: "An internal training I give inside Sopra Steria"
 - project:
   title: restdocs-dsl
   link: "https://github.com/jntakpe/spring-restdocs-dsl"
-  tagline: "Permet d'alléger la syntaxe de Spring Restdocs (génération d'une documentation à partir de tests) à l'aide de DSLs Kotlin. Ma contribution
-  comprend l'apport d'un générateur de DSL à l'aide de kapt afin d'alléger encore la syntaxe"
+  tagline: "Annotation processor for generating a static Kotlin DSL in order to facilitate OpenAPI generation from tests"
 - project:
   title: dxp-gradle
   link: "#"
-  tagline: "Librairie configurant le build de tous les projets Gradle réduisant la configuration nécessaire à une simple ligne."
+  tagline: "Gradle plugin configuring all SBCP projects in a single line"
 - project:
   title: dxp-cli
   link: "#"
-  tagline: "Command Line Interface en Rust (~10k lignes) gérant la plupart des tâches courantes d'un développeur : proxy switching, project initializr à
-  partir de templates, log parser, kubectl helpers..."
-- project:
-  title: Instant Payments POC
-  link: "#"
-  tagline: "POC sur l'implémentation des Instant Payments en microservices. Implémenté en JEE à l'aide de Kumuluzee,
-   de bases MongoDB et Redis et du client Redisson."
+  tagline: "Command Line Interface in Rust (~10k lines) dealing with most of a developers daily tasks : proxy switching,
+   project initialization from templates, log parser, kubectl helpers..."
 - project:
   title: Rest Design Principles
   link: "#"
-  tagline: "Documentation de référence de 80 pages sur REST et ses principes ainsi que des règles de design d'APIs
-  à destination de tous les projets Sopra Banking et ses clients."
+  tagline: "A 80+ pages document defining Sopra Banking REST API rules"

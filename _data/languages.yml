@@ -1,15 +1,15 @@
 - language:
-  idiom: Français
-  level: Langue maternelle
+  idiom: French
+  level: native language
 - language:
-  idiom: Anglais
-  level: Courant
+  idiom: English
+  level: fluent
 - language:
-  idiom: Allemand
-  level: Scolaire
+  idiom: German
+  level: intermediate
 - language:
-  idiom: Espagnol
-  level: Notions
+  idiom: Spanish
+  level: intermediate
 - language:
-  idiom: Italien
-  level: Notions
+  idiom: Italian
+  level: intermediate

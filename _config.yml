@@ -8,14 +8,15 @@ style: styles-6
 
 #Profile information
 name: Beltram Maldant
-tagline: Architecte
-age: 30 ans
+tagline: Architect
+age: 30
 pic: profile.jpg
-summary: "Je suis un dev passionné par son métier et toutes les stacks techniques sur lesquelles j'évolue.
-J'aime par dessus tout apprendre de nouvelles choses afin de construire des applications toujours plus performantes, modernes
-et scalables. Mon premier souci est d'écrire du code propre, élégant et documenté.<br>
-Je suis actuellement à la recherche d'opportunités en remote dans des entreprises
-innovantes bâtissant des architectures microservices à l'aide de langages modernes (Kotlin, Rust...)."
+summary: "I am a software architect at Sopra Banking Software. I belong to a platform team in charge of delivering
+tools and libraries to our 300+ developers. On a daily basis, I switch between architectural studies, implementations,
+trainings and support to other teams.<br>
+On my spare time I started learning Rust 3 years ago. I immediately fell in love with the language. I began implementing
+some internal tools then started on a few open source projects.<br>
+I am always keen on learning new things and I love sharing it with others."
 
 #sidebar links
 email: beltram.maldant(at)gmail.com

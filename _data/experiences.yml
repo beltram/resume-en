@@ -1,33 +1,35 @@
 - experience:
-  role: Développeur Spring
-  time: sept. 2017 -
+  role: Software Architect
+  time: 2020 -
   company: Sopra Banking Software, Nantes - Paris
-  details: "Le projet SBCP (Sopra Banking Cloud Platform) fait suite aux directives européennes PSD2 obligeant les banques à ouvrir leurs APIs
-  à des tiers. Le but du projet est de fournir une exposition des APIs internes des banques vers un des formats normés de la réglementation PSD2.
-  La solution proposée s'articule autour de microservices SpringBoot. Mon rôle au sein de ce projet est d'accompagner techniquement l'équipe sur la résolution de bugs,
-  de proposer des solutions aux problématiques techniques et de mener les revues de code hebdomadaires"
+  details: "After graduating from an external formation provided by one of the top french engineering school, I was appointed
+  architect. I am doing architectural studies for new developments, trainings for newcomers and of course still a lot of development
+  for core and critical features."
 - experience:
-  role: Développeur JEE
-  time: mars 2016 - sept. 2017
+  role: Spring/Kotlin developer
+  time: 2017 - 2020
+  company: Sopra Banking Software, Nantes - Paris
+  details: "I joined an initiative (SBCP) aiming at developing the next generation of banking applications. It following european
+  legislation enforcing banks to open their services through open APIs. Technically, this involved microservices (Kotlin/Spring)
+  running on Kubernetes/Istio on public clouds (AWS)<br>
+  During those 3 years I developed many microservices, tools and provided support and guidance to our fast growing user base."
+- experience:
+  role: JEE developer
+  time: 2016 - 2017
   company: Sopra Banking Software, Annecy
-  details: "J'ai intégré l'équipe chargée de la réalisation d'un framework JEE à destination de l'ensemble des projets applicatifs de
-  l'entreprise (plus de 30 projets). Ma principale tâche fût de designer et de mener la transformation des web services existants vers
-  des APIs REST. Cette tâche s'est accompagnée d'inplémentations, de rédaction de documentation et de conseils."
+  details: "I started in a platform team developing a JEE framework used for all the company's banking applications.
+  I mostly dealt with the on-going transition from SOAP to REST."
 - experience:
-  role: Développeur Android
-  time: sept. 2015 - fev. 2016
+  role: Android developer
+  time: 2015 - 2016
   company: Genii, Annecy
-  details: "Dans le cadre de mon stage de fin d'études j'ai intégré la jeune startup annécienne Genii alors en cours de développement de son
-  produit : CastByGenii. L'idée s'articulait autour du concept de rendre la TV plus social en permettant à des personnes géographiquement
-  éloignées de pouvoir visionner un contenu tout en partageant leurs réactions en temps réel.<br>
-  J'ai participé à la conception de l'application Android ainsi qu'à la gestion et l'amélioration des flux vidéo.<br>
-  J'ai de plus eu la chance de participer avec toute l'équipe au CES de Las Vegas en 2016 ou j'ai eu la charge d'organiser les démos privées
-  et de tenir le stand en pitchant le concept à tous les visiteurs."
+  details: "For my last internship I joined a startup editing a social TV application. I developed the Android application and
+  worked on improving the video streams with the backend. At the end of the internship, we presented our product at the CES 2016.
+  I was in charge of handling the booth and to setup private demos for investors."
 - experience:
-  role: Développeur Javascript
-  time: sept. 2013 - fev. 2014
+  role: Javascript developer
+  time: 2013 - 2014
   company: Current, Paris
-  details: "J'ai intégré la toute jeune startup Current pour mon premier stage en entreprise durant ma seconde année d'école d'ingénieur.
-  Le concept était de développer un player vidéo aggrégeant plusieurs flux afin de tous les afficher simultanément pour permettre à
-  l'utilisateur de sélectionner sans latence le flux de son choix et ainsi de prendre la place du réalisateur de l'émission.<br>
-  J'ai eu la charge de porter l'application Flash existante en HTML5 / Javascript. J'ai ensuite assuré la livraison au client (Taratata)."
+  details: "I joined a young startup for my first internship. My job was to port an existing Flash video player
+   into HTML5. The main asset of the player was to propose an aggregated view of multiple cameras and let users choose
+   which angle of the show they wanted to see."
