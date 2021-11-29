@@ -1,0 +1,38 @@
+# Site Settings
+title: Beltram Maldant
+url: 'https://beltram.github.io/resume/'
+baseurl: '/resume'
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+style: styles-6
+
+#Profile information
+name: Beltram Maldant
+tagline: Architecte
+age: 30 ans
+pic: profile.jpg
+summary: "Je suis un dev passionné par son métier et toutes les stacks techniques sur lesquelles j'évolue.
+J'aime par dessus tout apprendre de nouvelles choses afin de construire des applications toujours plus performantes, modernes
+et scalables. Mon premier souci est d'écrire du code propre, élégant et documenté.<br>
+Je suis actuellement à la recherche d'opportunités en remote dans des entreprises
+innovantes bâtissant des architectures microservices à l'aide de langages modernes (Kotlin, Rust...)."
+
+#sidebar links
+email: beltram.maldant(at)gmail.com
+email-displayname: beltram.maldant
+phone: xx.xx.xx.xx.xx
+linkedin: beltram-maldant-2930b880
+linkedin-displayname: Beltram Maldant
+github: beltram
+twitter: '@BeltramMaldant'
+#Update all the sections by editing the files inside _data folder.
+
+# Tracker
+analytics: UA-112698702-1
+
+# Build settings
+encoding: "utf-8"
+compress_html:
+  clippings: all
+  ignore:
+    envs: development

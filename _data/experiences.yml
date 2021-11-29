@@ -1,0 +1,33 @@
+- experience:
+  role: Développeur Spring
+  time: sept. 2017 -
+  company: Sopra Banking Software, Nantes - Paris
+  details: "Le projet SBCP (Sopra Banking Cloud Platform) fait suite aux directives européennes PSD2 obligeant les banques à ouvrir leurs APIs
+  à des tiers. Le but du projet est de fournir une exposition des APIs internes des banques vers un des formats normés de la réglementation PSD2.
+  La solution proposée s'articule autour de microservices SpringBoot. Mon rôle au sein de ce projet est d'accompagner techniquement l'équipe sur la résolution de bugs,
+  de proposer des solutions aux problématiques techniques et de mener les revues de code hebdomadaires"
+- experience:
+  role: Développeur JEE
+  time: mars 2016 - sept. 2017
+  company: Sopra Banking Software, Annecy
+  details: "J'ai intégré l'équipe chargée de la réalisation d'un framework JEE à destination de l'ensemble des projets applicatifs de
+  l'entreprise (plus de 30 projets). Ma principale tâche fût de designer et de mener la transformation des web services existants vers
+  des APIs REST. Cette tâche s'est accompagnée d'inplémentations, de rédaction de documentation et de conseils."
+- experience:
+  role: Développeur Android
+  time: sept. 2015 - fev. 2016
+  company: Genii, Annecy
+  details: "Dans le cadre de mon stage de fin d'études j'ai intégré la jeune startup annécienne Genii alors en cours de développement de son
+  produit : CastByGenii. L'idée s'articulait autour du concept de rendre la TV plus social en permettant à des personnes géographiquement
+  éloignées de pouvoir visionner un contenu tout en partageant leurs réactions en temps réel.<br>
+  J'ai participé à la conception de l'application Android ainsi qu'à la gestion et l'amélioration des flux vidéo.<br>
+  J'ai de plus eu la chance de participer avec toute l'équipe au CES de Las Vegas en 2016 ou j'ai eu la charge d'organiser les démos privées
+  et de tenir le stand en pitchant le concept à tous les visiteurs."
+- experience:
+  role: Développeur Javascript
+  time: sept. 2013 - fev. 2014
+  company: Current, Paris
+  details: "J'ai intégré la toute jeune startup Current pour mon premier stage en entreprise durant ma seconde année d'école d'ingénieur.
+  Le concept était de développer un player vidéo aggrégeant plusieurs flux afin de tous les afficher simultanément pour permettre à
+  l'utilisateur de sélectionner sans latence le flux de son choix et ainsi de prendre la place du réalisateur de l'émission.<br>
+  J'ai eu la charge de porter l'application Flash existante en HTML5 / Javascript. J'ai ensuite assuré la livraison au client (Taratata)."
